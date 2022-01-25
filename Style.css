@@ -1,0 +1,22 @@
+body {
+    font-family: 'Patrick Hand', cursive;
+    background-image: url('Background.png');
+}
+h1 {
+    width: 50%;
+    font-size: larger;
+}
+.div1 {
+    background-color:grey;
+    width: 50%;
+}
+h1 {
+    position: top;
+    color: grey;
+    border: indigo ridge;
+    border-radius: 50px;
+}
+table{
+    font-size: 20px;
+    text-align: center;
+}
